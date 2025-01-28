@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Retail_IDE_Webdriver" />
         <module name="EBL_Retail_IDE_TO_Seleium" />
       </profile>
     </annotationProcessing>
